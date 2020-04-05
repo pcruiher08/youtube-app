@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
+.videos {
+    display: flex;
+  }
+
+a{
+text-decoration: none;
+color: black;
+}
+
+img {
+margin: 5px;
+flex: auto;
+}
+
+
+body{
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div{
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 1.6;
+    background: #636060;
+    padding: 20px;
+    margin: 5px 0 25px 0;
+}
